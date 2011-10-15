@@ -1,0 +1,15 @@
+Turntable.fm Awesome/Lame Button
+=====
+
+* Upload the sketch to your Arduino, configuring pins as needed.
+* Edit the python control script, edit your Serial port.
+* Run the python control script, and vote away!
+
+Quick press = Awesome Long press = Lame.
+
+Notes
+---
+
+The applescript kind of sucks, turntable has to be in the first Chrome window. I'll try and fix this eventually.
+
+Thanks to [Jeff's Arduino Blog](http://jmsarduino.blogspot.com/2009/05/click-for-press-and-hold-for-b.html)
